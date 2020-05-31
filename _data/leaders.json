@@ -5703,5 +5703,12 @@
         "group": "OWASP Georgetown",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-georgetown/"
+    },
+    {
+        "name": "Arjun Chaudhary",
+        "email": "mailto:arjun.chaudhary@owasp.org",
+        "group": "OWASP Chandigarh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chandigarh/"
     }
 ]
